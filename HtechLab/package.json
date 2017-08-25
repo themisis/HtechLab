@@ -1,0 +1,9 @@
+{
+  "name": "htech-lab",
+  "version": "0.0.0",
+  "description": "HtechLab",
+  "main": "server.js",
+  "author": {
+    "name": "themis"
+  }
+}
